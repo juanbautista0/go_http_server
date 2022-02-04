@@ -1,2 +1,2 @@
-# go_http_server
-Go HTTP Server
+# Go HTTP Server
+Repository for educational purposes
